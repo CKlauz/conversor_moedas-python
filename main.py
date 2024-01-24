@@ -2,13 +2,12 @@ import tkinter as tk
 import requests
 import json
 import customtkinter
-from api import siglas_moedas
+from moedas import siglas_moedas
 
 #Cores
 azul = '#3153de'
 branco = '#ffffff'
 
-#Configs|Tema
 
 #Funções
 customtkinter.set_appearance_mode('system')
