@@ -1,6 +1,3 @@
-import requests
-import json
-
 siglas_moedas = [
     "ARS (Peso Argentino)", "AUD (Dólar Australiano)", 
     "BRL (Real Brasileiro)", "BRLT (Real Brasileiro Turismo)", "BSD (Dólar das Bahamas)", "BTC (Bitcoin)", 
